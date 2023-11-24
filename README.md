@@ -17,6 +17,10 @@
 
 ![小黄鸭合图](doc/xhy@0.png)
 
+打包成合图后，还会有一个描述文件（*.json）。
+
+通常来说，生成合图是为了在游戏引擎中去使用，所以，我也做了 **Runtime**，[点此跳转](https://github.com/gh-kL/PackSF-Runtimes)
+
 本工具基于 .net 开发，使用的第三方插件：
 - [SixLabors.ImageSharp](https://www.nuget.org/packages/SixLabors.ImageSharp)
 - [Utf8Json](https://www.nuget.org/packages/Utf8Json)
