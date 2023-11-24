@@ -1,0 +1,14 @@
+{
+  "rootUrl": "../../../assets/",
+  "defaultPivotX": 0.5,
+  "defaultPivotY": 0.5,
+  "defaultFPS": 30,
+  "defaultEdgeGap": 5,
+  "defaultItemGap": 5,
+  "defaultAtlasMaxSize": 512,
+  "exportMethod": 3,
+  "deleteAllBeforeExport": true,
+  "exportPaths": [
+    "../../../output/"
+  ]
+}
